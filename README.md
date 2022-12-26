@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adeelahmad2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adeelahmad2021" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adeel ahmad khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeel ahmad khan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Adeel Ahmad Khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeel ahmad khan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/adeel ahmad khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="adeel ahmad khan" height="30" width="40" /></a>
 <a href="https://instagram.com/adeelahmadkhan02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adeelahmadkhan02" height="30" width="40" /></a>
 </p>

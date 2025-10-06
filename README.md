@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Adeel Ahmad</h1>
-<h3 align="center">A Digital Evangelist and passionate Software Developer from Pakistan</h3>
+<h3 align="center">A Digital Evangelist and passionate Software Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adeelahmadkhan36" alt="adeelahmadkhan36" /></a> </p>
 
-- 🌱 I’m currently learning **Programming, Website Development, App Development(Flutter).**
+💻 I’m a Professional Flutter Developer passionate about crafting modern, scalable, and user-friendly mobile apps.
 
-- 💬 Ask me about **Flutter, Web Technologies, Programming Concepts**
+🌱 I love staying up to date with the latest technologies and continuously improving my skills.
 
-- 📫 How to reach me **adeelahmad1831@gmail.com**
+🤖 I’m also deeply interested in Artificial Intelligence and how it shapes the future of software development.
 
-- ⚡ Fun fact **I am Cricket lover.**
+💬 Ask me about Flutter, State Management (GetX, Provider, Riverpode, Bloc), REST APIs, Python, AI and Web Technologies.
+
+📫 Reach me at adeelahmad1831@gmail.com
+
+⚡ Fun fact: Besides coding, I’m a cricket lover and tech explorer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -13,7 +13,7 @@
 
 💬 Ask me about Flutter, State Management (GetX, Provider, Riverpode, Bloc), REST APIs, Python, AI and Web Technologies.
 
-📫 Reach me at adeelahmad1831@gmail.com
+📫 Reach me at adeelahmad@gcm.edu.pk
 
 ⚡ Fun fact: When I’m not coding, you’ll find me enjoying cricket or exploring new tech trends.
 
